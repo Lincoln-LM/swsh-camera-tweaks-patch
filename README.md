@@ -1,4 +1,5 @@
 # swsh-camera-tweaks-patch
+## Updates moved to https://github.com/Lincoln-LM/swsh-mods-exl
 Patches/Cheats modifying the limits on the camera in pokemon sword and shield
 
 Mod idea, feedback, and testing by [@norainthefuture](https://twitter.com/norainthefuture)
